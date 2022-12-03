@@ -1,3 +1,20 @@
+Tela.kv<br>
+GridLayout:<br>
+    cols: 1<br>
+    Label:<br>
+        id: moeda1<br>
+        text: ""<br>
+    Label:<br>
+        id: moeda2<br>
+        text: ""<br>
+    Label:
+        id: moeda3<br>
+        text: ""<br>
+    Label:
+        id: moeda4<br>
+        text: ""<br>
+
+-----------------------------------------------------------------
 # MeuApp_Cotacao
 
 from kivy.app import App<br>
